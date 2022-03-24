@@ -1,5 +1,6 @@
-<h1> Problem </h1>
+
+#Problem
 ![Alt text](system.png?raw=true "Title")
 
-<h2>Output</h2>
+#Output
 ![Alt text](system2.png?raw=true "Title")
